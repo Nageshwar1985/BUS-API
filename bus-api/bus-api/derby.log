@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 26 12:19:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017a-e193-72f2-000004c6b7c8 
+on database directory memory:C:\Workspace\Yourbus\bus-api\bus-api\4b112e60-46e0-42d6-97e9-6f9449c54f35 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11028347 
+Loaded from file:/C:/Users/nageswararao.seelam/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Workspace\Yourbus\bus-api\bus-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
